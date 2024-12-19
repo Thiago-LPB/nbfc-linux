@@ -109,13 +109,13 @@
 	 "ReadRegister": 21,
 	 "WriteRegister": 58,
 	 "MinSpeedValue": 0,
-	 "MaxSpeedValue": 100,
+	 "MaxSpeedValue": 235,
 	 "IndependentReadMinMaxValues": true,
 	 "MinSpeedValueRead": 0,
 	 "MaxSpeedValueRead": 5660,
 	 "ResetRequired": true,
 	 "FanSpeedResetValue": 50,
-	 "FanDisplayName": "GPU fan (RTX 3060 Mobile)",
+	 "FanDisplayName": "GPU fan (RTX 3070ti Mobile)",
 	 "TemperatureThresholds": [
 	  {
 	   "UpThreshold": 40,
