@@ -1,7 +1,7 @@
 {
  "NotebookModel": "Acer Predator PH315-55",
  "Author": "Snowy O'Neill",
- "EcPollInterval": 3000,
+ "EcPollInterval": 1000,
  "ReadWriteWords": true,
  "CriticalTemperature": 100,
  "FanConfigurations": [
