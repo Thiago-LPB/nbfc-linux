@@ -12,7 +12,7 @@
 	 "MaxSpeedValue": 100,
 	 "IndependentReadMinMaxValues": true,
 	 "MinSpeedValueRead": 0,
-	 "MaxSpeedValueRead": 5263,
+	 //"MaxSpeedValueRead": 5263,
 	 "ResetRequired": true,
 	 "FanSpeedResetValue": 50,
 	 "FanDisplayName": "CPU fan (INTEL 12700H)",
