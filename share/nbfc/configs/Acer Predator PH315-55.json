@@ -180,12 +180,12 @@
 	  {
 	   "UpThreshold": 78,
 	   "DownThreshold": 73,
-	   "FanSpeed": 72.0
+	   "FanSpeed": 85.0
 	  },
 	  {
 	   "UpThreshold": 82,
 	   "DownThreshold": 76,
-	   "FanSpeed": 85.0
+	   "FanSpeed": 90.0
 	  },
 	  {
 	   "UpThreshold": 84,
